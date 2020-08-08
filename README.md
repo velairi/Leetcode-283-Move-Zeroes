@@ -27,3 +27,5 @@ func moveZeroes(_ arr: inout [Int]) {
   }
 }
 ```
+Time: O(n)
+Space: O(1)
